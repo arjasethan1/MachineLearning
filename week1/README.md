@@ -12,9 +12,10 @@
         * Clone, add, commit, push, pull commands
 * Gradient Decent and basics of ML model training  
 * Supervised and Un-Supervised models
+* Regression and classification.
 * Linear regression
     * Theory of linear regression
     * Implementation using Numpy
     * Adding additional features to linear regression.
     * Over-fitting and under-fitting
-    * regularization   
+    * regularization
